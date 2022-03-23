@@ -65,4 +65,4 @@ if __name__ == "__main__":
     root = Tk()
     root.title("Title goes here")
     something = Convertor()
-    root = mainloop()
+    root.mainloop()
