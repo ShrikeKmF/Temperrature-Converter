@@ -21,7 +21,7 @@ class Convertor:
 
         self.help_button = Button(self.convertor_frame, text="Help",
                                   font=("Arial", "14"),
-                                  padx=10, pady=10, command=help)
+                                  padx=10, pady=10, command=self.help)
         self.help_button.grid(row=1)
 
     def help(self):
