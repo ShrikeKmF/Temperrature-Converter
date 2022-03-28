@@ -94,7 +94,7 @@ class Convertor:
                 self.to_convert_entry.configure(bg="white")
             else:
                 self.convertor_label.configure(text=answer, fg="red")
-                self.to_convert_entry.configure(bg="error")
+                self.to_convert_entry.configure(bg=error)
 
         except ValueError:
             self.convertor_label.configure(text="Enter a number!!", fg="red")
