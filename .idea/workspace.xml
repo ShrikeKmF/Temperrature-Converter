@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f0071d0-7f7f-4ea3-b4d4-acf62e53af27" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/08_data_to_txt_v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_data_to_txt_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_data_to_txt_v3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_data_to_txt_v4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_data_to_txt_v5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3f0071d0-7f7f-4ea3-b4d4-acf62e53af27" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
